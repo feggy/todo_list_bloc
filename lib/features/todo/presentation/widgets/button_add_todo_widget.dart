@@ -28,6 +28,7 @@ class ButtonAddTodoWidget extends StatelessWidget {
             content: TextFormField(
               controller: controller,
               style: const TextStyle(fontSize: 18),
+              autocorrect: false,
               decoration: const InputDecoration(
                 hintText: 'Type your new todo',
               ),
