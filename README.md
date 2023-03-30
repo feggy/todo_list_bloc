@@ -37,7 +37,7 @@ _\*Todo List works on iOS, Android._
 
 ## My Result ⚡️
 
-[result_gift]
+![][result_gift]
 
 
 [result_gift]: todo.gif
